@@ -24,3 +24,12 @@ STEPS:
 9. them click "embed code"
 10. paste your code in the box then press "insert"
 11. then click "insert" again
+12. (optional) resize the game to be bigger / smaller
+13. now you have a game!
+14. on the main page "home" click "content blocks" then choose one you want
+15.  get a photo of the game you have
+16.  drag and drop the photo on the content block + icon to set the photo
+17.  now click the photo then click the link button
+18.  now you can link the page with the game to the photo or to a website url
+    
+ you did it! now repeat for more games! (NOTE: YOU DONT NEED TO MAKE CONTENT BLOCKS EVERY TIME YOU JUST NEED THEM FOR YOUR GAMES)
