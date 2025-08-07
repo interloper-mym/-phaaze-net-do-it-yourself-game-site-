@@ -1,5 +1,4 @@
-
-THIS IS WIP :D
+NOTE: if you can't open the .html files for the code download them then rename them to "(GAMENAMEHERE).txt" then you should be able open it and get the code
 
 # -phaaze-net-do-it-yourself-game-site-
 how to make a game sight (w tools) (it's all FREE!)
